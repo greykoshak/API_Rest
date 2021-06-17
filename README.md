@@ -29,3 +29,5 @@
     >>>res.status_code
     >>>200
     >>>res.get_json()
+    
+    >>>res = client.put('/tutorials/2', json= {'description': 'Add PUT', 'title': 'Video #2. PUT'})

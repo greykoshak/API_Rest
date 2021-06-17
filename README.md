@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=_pK0aUPpX_Q&list=PLWQhUNXl0LnjBIaE72hq1RkDsbWWSg
         PUT
         UPDATE
         DELETE
-    CRUD — (англ. create read update delete — «Создание чтение обновление удаление») 
+    CRUD — (англ. create read update delete — «Создание чтение обновление удаление»)
     сокращённое именование 4 базовых функций при работе с персистентными хранилищами данных — 
     создание, чтение, редактирование и удаление.
     

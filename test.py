@@ -1,5 +1,6 @@
 # https://tproger.ru/translations/demystifying-decorators-in-python/
 
+
 def benchmark(func):
     import time
 
@@ -9,7 +10,6 @@ def benchmark(func):
         end = time.time()
         print('[*] Время выполнения: {} секунд.'.format(end - start))
         return return_value
-
     return wrapper
 
 
@@ -20,5 +20,5 @@ def fetch_webpage(url):
     return webpage.text
 
 
-webpage = fetch_webpage('https://google.com')
-print(webpage)
+web_page = fetch_webpage('https://google.com')
+print(web_page)

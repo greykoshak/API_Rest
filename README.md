@@ -46,3 +46,8 @@ https://www.youtube.com/watch?v=_pK0aUPpX_Q&list=PLWQhUNXl0LnjBIaE72hq1RkDsbWWSg
     >>>res.get_json()
 [{'description': 'UPDATE, DELETE routes', 'id': 2, 'title': 'Video #2. More features'}]
 
+######################
+Тесты с модулем pytest
+######################
+
+Terminal --> pytest tests.py
